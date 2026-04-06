@@ -1,0 +1,501 @@
+Member_ID,Service_Date,Enjoyed,Decision_Status
+1,2024-02-23,Worship Session,Decided
+2,2024-07-03,Atmosphere,Decided
+3,2024-03-16,Atmosphere,Undecided
+4,2024-02-11,Prayer,Decided
+5,2024-08-05,Sermon,Undecided
+6,2024-04-19,Atmosphere,Decided
+7,2024-07-08,Atmosphere,Undecided
+8,2024-05-15,Atmosphere,Undecided
+9,2024-08-13,Atmosphere,Undecided
+10,2024-03-24,Sermon,Decided
+11,2024-09-05,Atmosphere,Decided
+12,2024-12-26,Prayer,Decided
+13,2024-08-21,Atmosphere,Decided
+14,2024-03-21,Worship Session,Decided
+15,2024-11-04,Atmosphere,Decided
+16,2024-03-02,Worship Session,Undecided
+17,2024-01-21,Sermon,Decided
+18,2024-07-09,Worship Session,Undecided
+19,2024-06-04,Worship Session,Undecided
+20,2024-01-15,Sermon,Decided
+21,2024-10-28,Atmosphere,Decided
+22,2024-06-05,Worship Session,Decided
+23,2024-04-03,Atmosphere,Decided
+24,2024-03-03,Worship Session,Decided
+25,2024-01-23,Atmosphere,Undecided
+26,2024-10-20,Worship Session,Undecided
+27,2024-06-21,Atmosphere,Undecided
+28,2024-11-06,Sermon,Decided
+29,2024-09-15,Atmosphere,Undecided
+30,2024-12-07,Atmosphere,Decided
+31,2024-06-15,Prayer,Undecided
+32,2024-07-17,Sermon,Undecided
+33,2024-06-22,Prayer,Undecided
+34,2024-05-22,Prayer,Decided
+35,2024-12-28,Prayer,Undecided
+36,2024-10-14,Prayer,Decided
+37,2024-04-08,Prayer,Decided
+38,2024-08-31,Prayer,Decided
+39,2024-12-03,Sermon,Decided
+40,2024-05-20,Sermon,Decided
+41,2024-12-27,Atmosphere,Decided
+42,2024-09-30,Worship Session,Undecided
+43,2024-10-28,Prayer,Undecided
+44,2024-01-12,Worship Session,Undecided
+45,2024-04-02,Atmosphere,Decided
+46,2024-09-27,Worship Session,Undecided
+47,2024-05-11,Prayer,Decided
+48,2024-02-20,Sermon,Undecided
+49,2024-03-14,Sermon,Undecided
+50,2024-02-15,Sermon,Undecided
+51,2024-07-27,Sermon,Decided
+52,2024-11-10,Worship Session,Decided
+53,2024-01-14,Prayer,Undecided
+54,2024-07-18,Prayer,Undecided
+55,2024-03-13,Atmosphere,Undecided
+56,2024-05-12,Atmosphere,Decided
+57,2024-01-27,Sermon,Decided
+58,2024-11-01,Sermon,Undecided
+59,2024-09-17,Atmosphere,Decided
+60,2024-05-17,Prayer,Undecided
+61,2024-08-25,Atmosphere,Decided
+62,2024-09-04,Prayer,Undecided
+63,2024-11-20,Sermon,Decided
+64,2024-05-17,Prayer,Decided
+65,2024-10-11,Sermon,Undecided
+66,2024-10-17,Atmosphere,Undecided
+67,2024-02-12,Sermon,Decided
+68,2024-07-10,Sermon,Decided
+69,2024-10-02,Atmosphere,Undecided
+70,2024-01-22,Prayer,Undecided
+71,2024-11-13,Worship Session,Decided
+72,2024-01-01,Prayer,Undecided
+73,2024-05-19,Worship Session,Undecided
+74,2024-06-28,Sermon,Undecided
+75,2024-01-24,Sermon,Decided
+76,2024-06-02,Prayer,Undecided
+77,2024-12-23,Prayer,Decided
+78,2024-10-11,Worship Session,Undecided
+79,2024-04-17,Worship Session,Undecided
+80,2024-11-21,Worship Session,Undecided
+81,2024-05-19,Sermon,Undecided
+82,2024-06-23,Sermon,Undecided
+83,2024-11-02,Worship Session,Decided
+84,2024-12-20,Sermon,Decided
+85,2024-11-07,Atmosphere,Decided
+86,2024-01-05,Sermon,Undecided
+87,2024-10-11,Atmosphere,Undecided
+88,2024-10-02,Prayer,Decided
+89,2024-10-02,Prayer,Undecided
+90,2024-12-10,Prayer,Undecided
+91,2024-07-11,Worship Session,Undecided
+92,2024-03-31,Prayer,Decided
+93,2024-08-24,Worship Session,Decided
+94,2024-08-15,Prayer,Decided
+95,2024-01-11,Worship Session,Undecided
+96,2024-04-08,Prayer,Undecided
+97,2024-04-23,Sermon,Undecided
+98,2024-07-04,Prayer,Undecided
+99,2024-09-09,Sermon,Decided
+100,2024-04-10,Atmosphere,Decided
+101,2024-05-22,Atmosphere,Decided
+102,2024-10-09,Sermon,Decided
+103,2024-02-03,Sermon,Decided
+104,2024-03-06,Worship Session,Decided
+105,2024-09-24,Worship Session,Decided
+106,2024-12-13,Prayer,Undecided
+107,2024-12-14,Atmosphere,Decided
+108,2024-08-06,Prayer,Undecided
+109,2024-08-09,Atmosphere,Undecided
+110,2024-03-03,Atmosphere,Undecided
+111,2024-07-04,Prayer,Decided
+112,2024-01-25,Worship Session,Undecided
+113,2024-09-29,Atmosphere,Undecided
+114,2024-01-03,Atmosphere,Decided
+115,2024-06-20,Prayer,Decided
+116,2024-04-25,Atmosphere,Decided
+117,2024-05-07,Sermon,Decided
+118,2024-06-17,Worship Session,Decided
+119,2024-11-16,Prayer,Decided
+120,2024-09-02,Atmosphere,Decided
+121,2024-10-30,Worship Session,Undecided
+122,2024-05-06,Prayer,Undecided
+123,2024-05-02,Worship Session,Decided
+124,2024-06-19,Sermon,Decided
+125,2024-11-03,Atmosphere,Decided
+126,2024-11-16,Atmosphere,Decided
+127,2024-02-13,Prayer,Decided
+128,2024-07-12,Worship Session,Decided
+129,2024-03-06,Prayer,Undecided
+130,2024-01-29,Worship Session,Undecided
+131,2024-02-03,Prayer,Decided
+132,2024-10-13,Prayer,Undecided
+133,2024-07-14,Atmosphere,Decided
+134,2024-11-12,Atmosphere,Decided
+135,2024-11-02,Prayer,Undecided
+136,2024-07-15,Atmosphere,Undecided
+137,2024-11-13,Prayer,Undecided
+138,2024-11-29,Prayer,Undecided
+139,2024-09-21,Worship Session,Decided
+140,2024-02-25,Prayer,Decided
+141,2024-10-31,Prayer,Decided
+142,2024-10-20,Sermon,Undecided
+143,2024-06-30,Atmosphere,Undecided
+144,2024-11-13,Atmosphere,Decided
+145,2024-05-04,Sermon,Decided
+146,2024-01-31,Sermon,Undecided
+147,2024-10-26,Atmosphere,Undecided
+148,2024-06-08,Sermon,Decided
+149,2024-08-28,Worship Session,Undecided
+150,2024-05-29,Worship Session,Decided
+151,2024-09-22,Sermon,Decided
+152,2024-05-01,Prayer,Undecided
+153,2024-06-25,Sermon,Decided
+154,2024-11-23,Sermon,Decided
+155,2024-06-23,Sermon,Undecided
+156,2024-12-21,Atmosphere,Undecided
+157,2024-10-23,Worship Session,Undecided
+158,2024-08-02,Worship Session,Decided
+159,2024-02-23,Atmosphere,Decided
+160,2024-09-10,Sermon,Decided
+161,2024-11-23,Sermon,Decided
+162,2024-08-26,Sermon,Decided
+163,2024-09-03,Worship Session,Undecided
+164,2024-04-15,Atmosphere,Decided
+165,2024-01-04,Worship Session,Decided
+166,2024-02-07,Worship Session,Decided
+167,2024-10-11,Prayer,Decided
+168,2024-05-28,Atmosphere,Decided
+169,2024-11-19,Worship Session,Decided
+170,2024-01-16,Sermon,Decided
+171,2024-05-25,Sermon,Decided
+172,2024-05-14,Sermon,Undecided
+173,2024-10-10,Sermon,Decided
+174,2024-04-10,Prayer,Decided
+175,2024-05-14,Prayer,Decided
+176,2024-12-12,Sermon,Undecided
+177,2024-12-01,Prayer,Undecided
+178,2024-04-17,Worship Session,Undecided
+179,2024-05-02,Worship Session,Undecided
+180,2024-12-04,Sermon,Undecided
+181,2024-12-30,Prayer,Decided
+182,2024-03-14,Sermon,Decided
+183,2024-04-08,Atmosphere,Undecided
+184,2024-06-11,Atmosphere,Decided
+185,2024-01-24,Sermon,Undecided
+186,2024-03-17,Worship Session,Decided
+187,2024-01-28,Worship Session,Decided
+188,2024-09-17,Atmosphere,Decided
+189,2024-02-11,Atmosphere,Decided
+190,2024-03-26,Atmosphere,Undecided
+191,2024-09-12,Atmosphere,Decided
+192,2024-06-13,Worship Session,Undecided
+193,2024-09-10,Atmosphere,Undecided
+194,2024-10-24,Atmosphere,Decided
+195,2024-04-16,Sermon,Decided
+196,2024-08-19,Sermon,Undecided
+197,2024-04-21,Worship Session,Undecided
+198,2024-07-12,Sermon,Undecided
+199,2024-05-10,Prayer,Decided
+200,2024-02-13,Worship Session,Undecided
+201,2024-09-22,Worship Session,Decided
+202,2024-10-25,Prayer,Undecided
+203,2024-09-19,Worship Session,Undecided
+204,2024-08-18,Atmosphere,Undecided
+205,2024-07-28,Worship Session,Undecided
+206,2024-06-11,Worship Session,Undecided
+207,2024-01-13,Sermon,Undecided
+208,2024-04-29,Worship Session,Decided
+209,2024-07-02,Prayer,Undecided
+210,2024-09-13,Prayer,Undecided
+211,2024-04-26,Prayer,Decided
+212,2024-02-06,Worship Session,Decided
+213,2024-10-06,Sermon,Undecided
+214,2024-04-10,Worship Session,Undecided
+215,2024-06-03,Worship Session,Decided
+216,2024-12-27,Sermon,Undecided
+217,2024-01-05,Worship Session,Undecided
+218,2024-06-26,Atmosphere,Undecided
+219,2024-10-23,Prayer,Undecided
+220,2024-11-30,Sermon,Undecided
+221,2024-04-26,Sermon,Decided
+222,2024-08-30,Sermon,Undecided
+223,2024-08-24,Worship Session,Decided
+224,2024-06-09,Sermon,Undecided
+225,2024-12-23,Atmosphere,Decided
+226,2024-08-12,Atmosphere,Decided
+227,2024-07-10,Sermon,Decided
+228,2024-06-05,Prayer,Undecided
+229,2024-12-03,Worship Session,Undecided
+230,2024-04-25,Atmosphere,Undecided
+231,2024-12-17,Atmosphere,Undecided
+232,2024-06-15,Prayer,Decided
+233,2024-03-12,Sermon,Undecided
+234,2024-10-17,Atmosphere,Undecided
+235,2024-04-14,Atmosphere,Decided
+236,2024-09-30,Atmosphere,Decided
+237,2024-08-31,Prayer,Undecided
+238,2024-10-18,Atmosphere,Undecided
+239,2024-02-17,Sermon,Decided
+240,2024-12-11,Sermon,Decided
+241,2024-12-18,Atmosphere,Decided
+242,2024-04-05,Sermon,Decided
+243,2024-07-16,Worship Session,Decided
+244,2024-04-29,Worship Session,Decided
+245,2024-08-20,Prayer,Undecided
+246,2024-09-22,Prayer,Decided
+247,2024-06-16,Atmosphere,Undecided
+248,2024-03-21,Prayer,Decided
+249,2024-10-01,Atmosphere,Undecided
+250,2024-02-05,Atmosphere,Decided
+251,2024-03-07,Sermon,Undecided
+252,2024-08-09,Atmosphere,Decided
+253,2024-11-05,Worship Session,Decided
+254,2024-09-14,Atmosphere,Undecided
+255,2024-04-13,Prayer,Decided
+256,2024-08-16,Prayer,Undecided
+257,2024-11-05,Sermon,Undecided
+258,2024-10-18,Atmosphere,Undecided
+259,2024-08-24,Prayer,Decided
+260,2024-05-27,Atmosphere,Undecided
+261,2024-12-24,Worship Session,Undecided
+262,2024-11-09,Sermon,Undecided
+263,2024-05-07,Sermon,Undecided
+264,2024-08-22,Atmosphere,Decided
+265,2024-12-23,Prayer,Undecided
+266,2024-12-23,Prayer,Decided
+267,2024-03-21,Worship Session,Undecided
+268,2024-12-07,Prayer,Decided
+269,2024-09-09,Atmosphere,Decided
+270,2024-07-07,Prayer,Decided
+271,2024-09-15,Worship Session,Undecided
+272,2024-08-18,Sermon,Undecided
+273,2024-04-16,Prayer,Undecided
+274,2024-01-14,Prayer,Undecided
+275,2024-07-14,Worship Session,Undecided
+276,2024-04-09,Atmosphere,Decided
+277,2024-01-06,Worship Session,Decided
+278,2024-12-29,Sermon,Undecided
+279,2024-12-09,Atmosphere,Undecided
+280,2024-08-24,Prayer,Decided
+281,2024-10-07,Sermon,Undecided
+282,2024-03-12,Atmosphere,Undecided
+283,2024-03-23,Sermon,Decided
+284,2024-11-06,Prayer,Decided
+285,2024-05-30,Prayer,Undecided
+286,2024-03-27,Prayer,Decided
+287,2024-12-12,Worship Session,Decided
+288,2024-08-13,Worship Session,Decided
+289,2024-04-20,Prayer,Decided
+290,2024-08-14,Prayer,Decided
+291,2024-07-18,Worship Session,Undecided
+292,2024-01-27,Prayer,Decided
+293,2024-07-12,Sermon,Decided
+294,2024-07-10,Sermon,Decided
+295,2024-02-16,Prayer,Undecided
+296,2024-01-15,Prayer,Undecided
+297,2024-04-08,Prayer,Decided
+298,2024-02-19,Sermon,Decided
+299,2024-01-23,Atmosphere,Decided
+300,2024-06-16,Worship Session,Decided
+301,2024-11-15,Sermon,Undecided
+302,2024-08-07,Prayer,Decided
+303,2024-04-19,Prayer,Undecided
+304,2024-06-14,Sermon,Decided
+305,2024-07-24,Worship Session,Decided
+306,2024-07-18,Sermon,Undecided
+307,2024-04-22,Prayer,Undecided
+308,2024-11-28,Worship Session,Decided
+309,2024-02-04,Sermon,Undecided
+310,2024-06-03,Atmosphere,Decided
+311,2024-12-30,Sermon,Undecided
+312,2024-02-18,Worship Session,Undecided
+313,2024-12-13,Sermon,Undecided
+314,2024-03-30,Worship Session,Undecided
+315,2024-02-04,Worship Session,Decided
+316,2024-11-07,Atmosphere,Undecided
+317,2024-09-18,Sermon,Decided
+318,2024-04-29,Prayer,Decided
+319,2024-06-07,Sermon,Undecided
+320,2024-05-04,Prayer,Decided
+321,2024-03-11,Worship Session,Undecided
+322,2024-05-31,Sermon,Decided
+323,2024-07-11,Sermon,Decided
+324,2024-05-01,Atmosphere,Undecided
+325,2024-03-09,Worship Session,Undecided
+326,2024-11-25,Prayer,Undecided
+327,2024-11-27,Worship Session,Decided
+328,2024-04-27,Worship Session,Undecided
+329,2024-05-04,Sermon,Decided
+330,2024-12-06,Sermon,Decided
+331,2024-11-07,Atmosphere,Undecided
+332,2024-04-03,Atmosphere,Decided
+333,2024-02-03,Atmosphere,Decided
+334,2024-04-08,Prayer,Decided
+335,2024-04-14,Sermon,Decided
+336,2024-03-29,Sermon,Decided
+337,2024-09-16,Prayer,Undecided
+338,2024-08-27,Worship Session,Decided
+339,2024-04-11,Sermon,Undecided
+340,2024-03-31,Sermon,Undecided
+341,2024-05-26,Atmosphere,Decided
+342,2024-05-19,Atmosphere,Decided
+343,2024-07-03,Atmosphere,Undecided
+344,2024-03-26,Atmosphere,Undecided
+345,2024-08-04,Atmosphere,Decided
+346,2024-09-03,Prayer,Undecided
+347,2024-08-06,Prayer,Undecided
+348,2024-10-31,Sermon,Decided
+349,2024-05-11,Atmosphere,Undecided
+350,2024-06-05,Atmosphere,Undecided
+351,2024-07-11,Atmosphere,Decided
+352,2024-06-19,Sermon,Undecided
+353,2024-04-10,Sermon,Decided
+354,2024-01-03,Prayer,Undecided
+355,2024-09-08,Atmosphere,Undecided
+356,2024-07-21,Worship Session,Undecided
+357,2024-09-07,Worship Session,Decided
+358,2024-07-28,Prayer,Decided
+359,2024-07-16,Sermon,Decided
+360,2024-08-11,Worship Session,Undecided
+361,2024-09-17,Atmosphere,Undecided
+362,2024-12-22,Prayer,Undecided
+363,2024-08-05,Sermon,Decided
+364,2024-09-01,Prayer,Undecided
+365,2024-11-19,Prayer,Decided
+366,2024-05-13,Atmosphere,Decided
+367,2024-05-10,Sermon,Decided
+368,2024-01-07,Prayer,Decided
+369,2024-11-25,Atmosphere,Undecided
+370,2024-12-27,Prayer,Decided
+371,2024-08-04,Sermon,Undecided
+372,2024-05-09,Worship Session,Undecided
+373,2024-10-27,Worship Session,Undecided
+374,2024-02-15,Prayer,Undecided
+375,2024-03-14,Worship Session,Decided
+376,2024-07-22,Worship Session,Decided
+377,2024-03-27,Atmosphere,Decided
+378,2024-02-19,Prayer,Undecided
+379,2024-09-25,Atmosphere,Undecided
+380,2024-08-08,Sermon,Decided
+381,2024-07-10,Sermon,Decided
+382,2024-04-11,Atmosphere,Decided
+383,2024-09-14,Prayer,Undecided
+384,2024-10-17,Sermon,Decided
+385,2024-04-12,Prayer,Decided
+386,2024-04-08,Worship Session,Undecided
+387,2024-08-13,Prayer,Decided
+388,2024-02-10,Worship Session,Decided
+389,2024-07-12,Prayer,Undecided
+390,2024-02-02,Worship Session,Decided
+391,2024-10-26,Sermon,Undecided
+392,2024-09-05,Prayer,Decided
+393,2024-02-01,Worship Session,Decided
+394,2024-12-06,Prayer,Decided
+395,2024-04-18,Prayer,Undecided
+396,2024-11-04,Worship Session,Undecided
+397,2024-08-30,Worship Session,Undecided
+398,2024-06-21,Worship Session,Undecided
+399,2024-06-10,Sermon,Undecided
+400,2024-12-06,Atmosphere,Undecided
+401,2024-11-08,Prayer,Undecided
+402,2024-06-18,Prayer,Decided
+403,2024-08-21,Atmosphere,Decided
+404,2024-01-14,Prayer,Undecided
+405,2024-12-24,Sermon,Undecided
+406,2024-08-19,Atmosphere,Undecided
+407,2024-12-04,Sermon,Decided
+408,2024-11-22,Worship Session,Decided
+409,2024-11-20,Worship Session,Decided
+410,2024-06-15,Atmosphere,Decided
+411,2024-11-06,Atmosphere,Undecided
+412,2024-11-09,Prayer,Undecided
+413,2024-08-07,Atmosphere,Decided
+414,2024-07-16,Worship Session,Decided
+415,2024-12-30,Sermon,Decided
+416,2024-03-06,Atmosphere,Decided
+417,2024-06-03,Atmosphere,Decided
+418,2024-08-16,Prayer,Undecided
+419,2024-12-05,Sermon,Decided
+420,2024-04-18,Sermon,Decided
+421,2024-02-24,Atmosphere,Decided
+422,2024-03-23,Worship Session,Undecided
+423,2024-05-23,Sermon,Undecided
+424,2024-12-06,Atmosphere,Decided
+425,2024-12-06,Sermon,Undecided
+426,2024-02-16,Worship Session,Decided
+427,2024-10-21,Prayer,Undecided
+428,2024-07-12,Atmosphere,Undecided
+429,2024-04-29,Sermon,Undecided
+430,2024-02-29,Worship Session,Decided
+431,2024-02-27,Prayer,Undecided
+432,2024-10-30,Sermon,Decided
+433,2024-10-20,Worship Session,Decided
+434,2024-06-09,Atmosphere,Decided
+435,2024-06-08,Prayer,Decided
+436,2024-07-17,Atmosphere,Undecided
+437,2024-07-05,Sermon,Decided
+438,2024-02-24,Atmosphere,Decided
+439,2024-10-02,Atmosphere,Undecided
+440,2024-03-15,Worship Session,Decided
+441,2024-09-12,Atmosphere,Decided
+442,2024-11-03,Worship Session,Decided
+443,2024-12-06,Prayer,Undecided
+444,2024-06-07,Prayer,Undecided
+445,2024-12-27,Atmosphere,Decided
+446,2024-09-10,Worship Session,Undecided
+447,2024-01-31,Worship Session,Decided
+448,2024-04-17,Sermon,Decided
+449,2024-04-01,Atmosphere,Undecided
+450,2024-06-02,Sermon,Decided
+451,2024-10-07,Atmosphere,Undecided
+452,2024-08-04,Atmosphere,Undecided
+453,2024-07-19,Atmosphere,Decided
+454,2024-09-27,Worship Session,Undecided
+455,2024-12-22,Sermon,Undecided
+456,2024-02-19,Sermon,Undecided
+457,2024-10-24,Prayer,Undecided
+458,2024-08-22,Sermon,Decided
+459,2024-08-14,Atmosphere,Undecided
+460,2024-03-15,Sermon,Decided
+461,2024-04-10,Prayer,Undecided
+462,2024-10-21,Prayer,Decided
+463,2024-07-11,Atmosphere,Decided
+464,2024-01-29,Prayer,Undecided
+465,2024-08-30,Sermon,Decided
+466,2024-03-01,Worship Session,Undecided
+467,2024-03-17,Atmosphere,Decided
+468,2024-01-18,Prayer,Decided
+469,2024-07-22,Atmosphere,Undecided
+470,2024-12-18,Sermon,Undecided
+471,2024-12-20,Prayer,Undecided
+472,2024-11-28,Atmosphere,Undecided
+473,2024-11-19,Atmosphere,Undecided
+474,2024-01-06,Prayer,Decided
+475,2024-02-12,Prayer,Undecided
+476,2024-11-24,Sermon,Decided
+477,2024-10-27,Atmosphere,Undecided
+478,2024-12-21,Prayer,Decided
+479,2024-07-15,Atmosphere,Undecided
+480,2024-06-01,Sermon,Decided
+481,2024-06-15,Prayer,Decided
+482,2024-07-26,Prayer,Undecided
+483,2024-10-11,Atmosphere,Decided
+484,2024-09-22,Prayer,Decided
+485,2024-12-03,Prayer,Decided
+486,2024-11-02,Sermon,Decided
+487,2024-10-11,Atmosphere,Undecided
+488,2024-03-03,Prayer,Decided
+489,2024-10-21,Sermon,Decided
+490,2024-02-14,Worship Session,Decided
+491,2024-02-13,Prayer,Undecided
+492,2024-07-05,Sermon,Undecided
+493,2024-12-02,Prayer,Decided
+494,2024-06-02,Prayer,Undecided
+495,2024-12-03,Atmosphere,Decided
+496,2024-10-22,Atmosphere,Undecided
+497,2024-09-24,Worship Session,Decided
+498,2024-12-18,Prayer,Decided
+499,2024-05-01,Prayer,Decided
+500,2024-03-13,Worship Session,Decided
