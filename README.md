@@ -124,21 +124,6 @@ The analysis provides aggregated insights and patterns to inform strategic follo
 
 ---
 
-## Power BI Visualization
-
-Visualizations include:
-[```Blank for now```]
-
----
-
-## Insights & Recommendations
-[```Blank for now```]
-
-**Recommendations**:  
-[```Blank for now```]  
-
----
-
 ## Future Work
 
 - Include multi-service attendance history for better disengagement modeling  
